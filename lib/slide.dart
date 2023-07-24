@@ -64,9 +64,10 @@ class _SlidesState extends State<Slides> {
                   onDotClicked: (index){
                   controller.animateToPage(page: index);
                   },
-                )
+                ),
+
               ],
-            )
+            ),
 
           )
         ]

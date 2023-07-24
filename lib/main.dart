@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:slide/lkp.dart';
 import 'package:slide/slide.dart';
 
 void main() {
